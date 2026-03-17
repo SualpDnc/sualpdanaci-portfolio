@@ -42,14 +42,4 @@ src/
     └── FloatingParticles.tsx  # Canvas particle system
 ```
 
-## Running Locally
 
-```bash
-npm install
-npm run dev
-# → http://localhost:3000
-```
-
-## License
-
-MIT
